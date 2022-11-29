@@ -21,7 +21,10 @@ const Welcome = () => {
             <br/>
             <br/>
             <br/>
+            this is from welcome component
+            <br/>
             {name}
+
 
         </>
     )
